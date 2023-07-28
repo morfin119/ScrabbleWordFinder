@@ -28,4 +28,4 @@ The Scrabble Word Finder is a program that helps you find the word with the high
 ### Notes
 - The program handles both upper and lowercase letters for letter frequency calculations.
 - If the dictionary file contains words with return carriage characters at the end of the line, the program will handle them correctly while reading the words.
-- A dictionary is included in the repo.
+- A dictionary can be found in the following link (be sure to remove any headers): https://boardgames.stackexchange.com/questions/38366/latest-collins-scrabble-words-list-in-text-file
